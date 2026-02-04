@@ -44,4 +44,4 @@ class Vector:
         return math.atan2(self.x, self.y)
 
     def __format__(self, fmt_spec=''):
-        print(fmt_s)
+        print(fmt_spec)
